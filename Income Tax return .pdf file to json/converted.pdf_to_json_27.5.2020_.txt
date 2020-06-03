@@ -1,0 +1,103 @@
+{
+  'Form': 'INDIAN INCOME TAX RETURN ACKNOWLEDGEMENT [Where the data of the Return of Income in Form ITR-1 (SAHAJ), ITR-2, ITR-3, ITR-4 , ITR-5, ITR-6,ITR-7 transmitted electronically with digital signature]',
+  'Assessment year': '2018-19',
+  'PERSONAL INFORMATION AND THE DATE OF ELECTRONIC TRANSMISSION': [
+    {
+      'Name': 'RESURGENT ENTREPRENEURS PRIVATE LIMITED AAFCP0047G',
+      'Flat/Door/Block': 'AE-634',
+      'Name Of Premises/Building/Village': '',
+      'Road/Street/PostOffice': 'SALT LAKE CITY ',
+      'Area/Locality': 'SECTOR-1',
+      'Town/City/District': 'KOLKATA',
+      'State': 'WEST BENGAL',
+      'Pin/ZipCode': '700091',
+      'PAN': '',
+      'Form No. which has been electronically transmitted': 'ITR-6',
+      'Status': 'Pvt Company',
+      'Aadhaar Number/EnrollmentID': '',
+      'Designation of AO(Ward/Circle)': 'ITO WD 2(1)',
+      'Original or Revised': 'ORIGINAL',
+      'E-filing Acknowledgement Number': '313664731290918',
+      'Date(DD/MM/YYYY)': '29-09-2018'
+    }
+  ],
+  'COMPUTATION OF INCOME AND TAX THEREON': [
+    {
+      '1': [
+        {
+          'Gross total income': 'Grosstotalincome'
+        }
+      ],
+      '2': [
+        {
+          'Deductions under Chapter-VI-A': '0'
+        }
+      ],
+      '3': [
+        {
+          'Total Income': '95770'
+        }
+      ],
+      '3a': [
+        {
+          'Current Year loss,if any': '0'
+        }
+      ],
+      '4': [
+        {
+          'Net tax payable': '45272'
+        }
+      ],
+      '5': [
+        {
+          'Interest and Fee Payable': '5031'
+        }
+      ],
+      '6': [
+        {
+          'Total tax, interest and Fee payable': '50303'
+        }
+      ],
+      '7': [
+        {
+          'Taxes Paid': [
+            {
+              'a Advance Tax 7a': '0',
+              'b TDS': '0',
+              'c TCS': '0',
+              'd Self Assessment Tax': '50300',
+              'e Total Taxes Paid (7a+7b+7c +7d)': '50300'
+            }
+          ]
+        }
+      ],
+      '8': [
+        {
+          'Tax Payable (6-7e)': '0'
+        }
+      ],
+      '9': [
+        {
+          '9Refund (7e-6) ': '0'
+        }
+      ],
+      '10': [
+        {
+          'Agriculture': '',
+          'Others': ''
+        }
+      ],
+      'cell': [
+        {
+          'This return has been digitally signed by': 'MANISH KEDIA',
+          'in the capacity of': 'DIRECTOR',
+          'having PAN': 'AIAPK0496N',
+          'from IP Address': '171.79.93.239',
+          'on': '29-09-2018:16',
+          'at': 'KOLKATA',
+          'Dsc Sl No & issuer': '2409160092508236211CN=SafeScrypt sub-CA for RCAI Class 2 2014,OU=Sub-CA,O=Sify Technologies Limited,C=IN'
+        }
+      ]
+    }
+  ]
+}
