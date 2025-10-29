@@ -1,5 +1,7 @@
 # ML-AI-Python-Codes
 
+👋 **Hello and Welcome!**
+
 ## About the Project
 This repository contains a collection of Python programs covering various domains such as Machine Learning, Natural Language Processing (NLP), Cryptography, Blockchain, Image Processing, and Data Science. It includes implementations of key algorithms, AI models, trading strategies, and database integrations.
 
